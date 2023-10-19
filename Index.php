@@ -74,7 +74,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 <body>
     <div class="container mt-5">
         <h3>
-            To Do List
+            To Do List Sofwan
             <small class="text-muted">
                 Catat semua hal yang akan kamu kerjakan disini.
             </small>
